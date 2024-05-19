@@ -1,0 +1,56 @@
+<style>
+
+*{
+  box-sizing: border-box;
+}
+.menu{
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+.menu a{
+  background-color: #EBECE7;
+  padding: 8px;
+  margin-top: 7px;
+  display: block;
+  width: 100%;
+  color: #293242;
+  border-right: 1em solid #695A5B;
+}
+.main{
+  float: left;
+  width: 60%;
+  padding: 0 20px;
+}
+
+@media only screen and {max-width: 620px;
+  .menu, .main{
+    width: 100%;
+  }
+
+}
+body{
+  font-family: Kanit, serif;
+  font-size: 22px;
+  color: #293242;
+  padding: 3px;
+}
+#main{
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 10px solid #695A5B; 
+  background-color: #EBECE7;
+}
+h1{
+  font-family: Satisfy;
+  color: #293242;
+  text-align: center;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+</style>

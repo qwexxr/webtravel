@@ -1,0 +1,38 @@
+div{width: auto;border: 10px solid #695A5B ;
+  padding: px;margin: 4px;background-color: #EBECE7;
+}
+
+/*ul.navbar{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 2em;
+  width: 7em;
+}
+ul.navbar li{
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid #695A5B;
+}
+ul.navbar a{
+  text-decoration: none;
+}
+a:link{
+  color: #293242;
+}
+a:visited{
+  color: blue;
+}*/
+
+#main{
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 10px solid #695A5B; 
+  background-color: #EBECE7;
+
+}
+
